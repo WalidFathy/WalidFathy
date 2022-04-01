@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @WalidFathy
+- 👀 I’m interested in SOFTWARE TESTING
+- 🌱 I’m currently learning Automation
+- 💞️ I’m looking to collaborate on software testing
+- 📫 How to reach me : walidadly21@gmail.com
